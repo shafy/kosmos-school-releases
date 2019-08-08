@@ -5,7 +5,7 @@ Our simulations are NGSS aligned, and work great for teachers and students, eith
 Kosmos School's simulations are a great learning resource, because they are interactive, engaging and effective (especially for understanding abstract concepts).
 
 
-## Highlights
+### Highlights
 
 * Run experiments and simulations to teach and learn science
 * Automatically generates data and charts for analysis
@@ -14,7 +14,7 @@ Kosmos School's simulations are a great learning resource, because they are inte
 
 We're adding new simulations continuously, here's the current list:
 
-## Physics
+### Physics
 * Gravity and Air Resistance (available, free)
 * Conservation of Energy (available, free)
 * Magnetic Fields (coming soon)
